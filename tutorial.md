@@ -25,7 +25,7 @@ Answer the questions as follows (with appropriate choices for `<Your name>` and 
 ```bash
 author_name []: <Your name>
 author_email []: <Your email>
-extension_name [myextension]: juptyterlab-mp4
+extension_name [myextension]: jupyterlab-mp4
 viewer_name [My Viewer]: JupyterLab mp4 viewer
 mimetype [application/vnd.my_organization.my_type]: video/mp4
 mimetype_name [my_type]: mp4
