@@ -1,3 +1,5 @@
+**Starting with JupyterLab 4, this is now part of [the extension examples](https://github.com/jupyterlab/extension-examples/tree/main/mimerenderer). And therefore this repository is now archived.**
+
 # jupyterlab-mp4
 
 A JupyterLab extension for rendering mp4 files.
